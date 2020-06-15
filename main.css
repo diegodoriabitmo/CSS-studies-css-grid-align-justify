@@ -13,6 +13,8 @@
     grid-template-columns: 10px 10px 10px;
     grid-template-rows: 10px 10px 10px;
     grid-gap: 5px;
+
+    justify-content: center;
 }
 
 .container > div {
