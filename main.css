@@ -16,8 +16,7 @@
 
     justify-content: space-evenly;
 
-    justify-items: center;
-    align-items: center;
+   
     
 }
 
@@ -25,5 +24,8 @@
     background-color: #7159c1;
     width: 50%;
     height: 50%;
+
+    justify-self: end;
+    align-self: end;
 }
 
